@@ -1,6 +1,6 @@
 import invariant from 'tiny-invariant'
 
-import { Currency, Price, Token } from 'core87'
+import { Currency, Price, Token } from 'core5'
 import { Pool } from './pool'
 
 /**

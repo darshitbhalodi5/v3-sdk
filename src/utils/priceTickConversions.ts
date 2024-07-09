@@ -1,4 +1,4 @@
-import { Price, Token } from 'core87'
+import { Price, Token } from 'core5'
 import JSBI from 'jsbi'
 import { Q192 } from '../internalConstants'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'

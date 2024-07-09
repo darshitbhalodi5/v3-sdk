@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'core87'
+import { MaxUint256 } from 'core5'
 import JSBI from 'jsbi'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'
 import { maxLiquidityForAmounts } from './maxLiquidityForAmounts'

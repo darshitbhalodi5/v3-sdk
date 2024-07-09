@@ -1,4 +1,4 @@
-import { Token } from 'core87'
+import { Token } from 'core5'
 import { FeeAmount } from './constants'
 import { Pool } from './entities/pool'
 import { Staker } from './staker'

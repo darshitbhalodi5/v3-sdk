@@ -1,5 +1,5 @@
 import { Interface } from '@ethersproject/abi'
-import { BigintIsh, Currency, CurrencyAmount, Percent, TradeType, validateAndParseAddress } from 'core87'
+import { BigintIsh, Currency, CurrencyAmount, Percent, TradeType, validateAndParseAddress } from 'core5'
 import invariant from 'tiny-invariant'
 import { Trade } from './entities/trade'
 import { ADDRESS_ZERO } from './constants'

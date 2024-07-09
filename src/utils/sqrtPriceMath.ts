@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'core87'
+import { MaxUint256 } from 'core5'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO, Q96 } from '../internalConstants'

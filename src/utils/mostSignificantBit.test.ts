@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'core87'
+import { MaxUint256 } from 'core5'
 import JSBI from 'jsbi'
 import { ONE } from '../internalConstants'
 import { mostSignificantBit } from './mostSignificantBit'

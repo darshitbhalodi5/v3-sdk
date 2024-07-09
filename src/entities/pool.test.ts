@@ -1,4 +1,4 @@
-import { Token, CurrencyAmount, WETH9 } from 'core87'
+import { Token, CurrencyAmount, WETH9 } from 'core5'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { nearestUsableTick } from '../utils/nearestUsableTick'
 import { TickMath } from '../utils/tickMath'

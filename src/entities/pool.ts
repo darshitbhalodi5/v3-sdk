@@ -1,4 +1,4 @@
-import { BigintIsh, CurrencyAmount, Price, Token } from 'core87'
+import { BigintIsh, CurrencyAmount, Price, Token } from 'core5'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { FACTORY_ADDRESS, FeeAmount, TICK_SPACINGS } from '../constants'

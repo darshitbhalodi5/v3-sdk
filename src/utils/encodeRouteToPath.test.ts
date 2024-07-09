@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from 'core87'
+import { Ether, Token, WETH9 } from 'core5'
 import { FeeAmount } from '../constants'
 import { Pool } from '../entities/pool'
 import { Route } from '../entities/route'

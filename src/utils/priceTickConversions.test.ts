@@ -1,4 +1,4 @@
-import { Price, Token } from 'core87'
+import { Price, Token } from 'core5'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 

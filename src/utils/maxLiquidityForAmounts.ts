@@ -1,4 +1,4 @@
-import { BigintIsh } from 'core87'
+import { BigintIsh } from 'core5'
 import JSBI from 'jsbi'
 import { Q96 } from '../internalConstants'
 

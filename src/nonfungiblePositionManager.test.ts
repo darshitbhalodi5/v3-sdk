@@ -1,4 +1,4 @@
-import { Percent, Token, CurrencyAmount, WETH9, Ether } from 'core87'
+import { Percent, Token, CurrencyAmount, WETH9, Ether } from 'core5'
 import { FeeAmount, TICK_SPACINGS } from './constants'
 import { Pool } from './entities/pool'
 import { Position } from './entities/position'

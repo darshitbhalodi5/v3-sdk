@@ -1,4 +1,4 @@
-import { BigintIsh } from 'core87'
+import { BigintIsh } from 'core5'
 import { TickList } from '../utils/tickList'
 import { Tick, TickConstructorArgs } from './tick'
 import { TickDataProvider } from './tickDataProvider'

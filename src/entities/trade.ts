@@ -1,4 +1,4 @@
-import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from 'core87'
+import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from 'core5'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../internalConstants'
 import { Pool } from './pool'

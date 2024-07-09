@@ -1,4 +1,4 @@
-import { BigintIsh } from 'core87'
+import { BigintIsh } from 'core5'
 
 /**
  * Provides information about ticks

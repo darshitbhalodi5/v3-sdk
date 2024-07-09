@@ -1,4 +1,4 @@
-import { Percent, Token } from 'core87'
+import { Percent, Token } from 'core5'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
